@@ -37,6 +37,15 @@
 ; I will leave it as an exercise for the curious to understand what is going on.
 ;
 
+;; Modified by @sehugg for @8bitworkshop
+;; - load example.cfg file
+;; - omit crt0 and neslib libs
+;;
+;#resource "example.cfg"
+;#define CFGFILE example.cfg
+;#define LIBARGS ,
+;; end of special instructions
+
 ;
 ; iNES header
 ;
