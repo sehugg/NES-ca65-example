@@ -18,6 +18,8 @@ This project was originally distributed at the NESDev forums:
 
 https://forums.nesdev.com/viewtopic.php?t=11151
 
+You can open this project in [8bitworkshop](http://8bitworkshop.com/redir.html?platform=nes&githubURL=https://github.com/sehugg/NES-ca65-example&file=example.s).
+
 ## License
 This program and source code can be freely redistributed, modified or reused in any way.
 Credit is not required, but attribution is always appreciated.
